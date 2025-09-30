@@ -9,8 +9,8 @@
 ---
 
 ## Array
-[Basic Operations](./arraybasicop.cpp) Basic insert, delete, search, and access operations on arrays. 
-
+[Basic Operations](./arraybasicop.cpp) Basic insert, delete, search, and access operations on arrays. </br>
+[Spiral Matrix](./spiral_matrix.cpp) - Return spiral order of matrix element</br>
 ## Recursion
 [Subsets(I)](./subsets(I).cpp) - Return all subsets </br>
 [Subsets(II)](./subsets(II).cpp) - Return all subsets without duplicates</br>
