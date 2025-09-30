@@ -1,5 +1,13 @@
 # DSA with C++
 
+## Summary
+- [Array](#array)
+- [Recursion](#recursion)
+- [LinkedList](#linkedlist)
+- [Sample](#sample)
+
+---
+
 ## Array
 [Basic Operations](./arraybasicop.cpp) Basic insert, delete, search, and access operations on arrays. 
 
@@ -10,10 +18,5 @@
 
 ## LinkedList
 
-
-
-
-
 ## Sample
 Sample Testing [View Code](./sample.cpp)
-
