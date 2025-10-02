@@ -62,7 +62,7 @@ int main() {
 }
 
 // OUTPUT:-
-// Array after insertions: 10 20 30 40 
+// Array after insertions: 10 20 30 40.
 // Element at index 2 = 30
 // Element 30 found at index 2
 // Element 99 not found!
