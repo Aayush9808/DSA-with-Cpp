@@ -18,6 +18,7 @@
 [Subsets(II)](./subsets(II).cpp) - Return all subsets without duplicates</br>
 [Permutations](./permutation.cpp) - Store all permutations</br>
 [N Queens](./nqueens.cpp) - Return all distinct solutions to the n-queens puzzle.</br>
+[Sudoku Solver](./sudokusolver.cpp) - Solve a Sudoku puzzle by filling the empty cells.</br>
 
 ## LinkedList
 
